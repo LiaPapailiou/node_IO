@@ -1,0 +1,24 @@
+{
+  "name": "node_io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clScripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiaPapailiou/node_IO.git"
+  },
+  "author": "Lia Papailiou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiaPapailiou/node_IO/issues"
+  },
+  "homepage": "https://github.com/LiaPapailiou/node_IO#readme",
+  "dependencies": {
+    "get-stdin": "^8.0.0",
+    "minimist": "^1.2.5",
+    "node": "^15.0.1"
+  }
+}

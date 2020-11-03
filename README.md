@@ -1,4 +1,4 @@
-##
+# Table of Contents
 * [General Info](General-Info)
 * [Installation](Installation)
 

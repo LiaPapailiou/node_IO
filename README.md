@@ -3,7 +3,7 @@
 * [Installation](Installation)
 
 ## General Info
- Node basic IO operations and streams practice.
+ Basic IO operations and streams practice in Node.
 
 ## Installation
  ```
